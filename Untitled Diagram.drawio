@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T11:35:15.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NmxBaAs2wzchgQX7W-qb" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T11:49:27.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bC3_9tSsyrUFemOU8Hih" version="21.0.6" type="github">
   <diagram name="Page-1" id="68JO6MREXEzeNU68vQrC">
     <mxGraphModel dx="2412" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="IC8Se40u6HLO76EEBxMK-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IC8Se40u6HLO76EEBxMK-20" target="IC8Se40u6HLO76EEBxMK-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IC8Se40u6HLO76EEBxMK-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;States&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="IC8Se40u6HLO76EEBxMK-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;States (pose, color, size)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="410" y="560" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC8Se40u6HLO76EEBxMK-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IC8Se40u6HLO76EEBxMK-24" target="IC8Se40u6HLO76EEBxMK-35">
@@ -92,8 +92,8 @@
         <mxCell id="IC8Se40u6HLO76EEBxMK-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PaLM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="880" y="560" width="80" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="IC8Se40u6HLO76EEBxMK-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Text (Low-level Commands)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="670" width="270" height="60" as="geometry" />
+        <mxCell id="IC8Se40u6HLO76EEBxMK-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Text&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="670" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC8Se40u6HLO76EEBxMK-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IC8Se40u6HLO76EEBxMK-39" target="IC8Se40u6HLO76EEBxMK-14">
           <mxGeometry relative="1" as="geometry">
@@ -126,13 +126,13 @@
           <mxGeometry x="210" y="780" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC8Se40u6HLO76EEBxMK-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Input Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="910" width="140" height="60" as="geometry" />
+          <mxGeometry x="-130" y="530" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC8Se40u6HLO76EEBxMK-49" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="910" width="140" height="60" as="geometry" />
+          <mxGeometry x="40" y="530" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IC8Se40u6HLO76EEBxMK-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Output Data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="910" width="140" height="60" as="geometry" />
+          <mxGeometry x="210" y="530" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
