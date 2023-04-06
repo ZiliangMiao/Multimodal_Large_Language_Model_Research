@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T11:52:56.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XxTtFxvMVtPdMyTH09dT" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:11:41.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GrFV57hqe8mHLOLiIuYR" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1077" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             <mxRectangle x="20" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-41" value="机器人/自动驾驶定位导航" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-41" value="机器人/自动驾驶定位建图" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
           <mxGeometry x="20" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-42" value="&lt;b&gt;准确度&lt;/b&gt;：涉及xxx" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
@@ -71,8 +71,11 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-45" value="&lt;b&gt;可视化&lt;/b&gt;：工程项xxx" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
           <mxGeometry x="20" y="120" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-46" value="目标检测" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
-          <mxGeometry x="180" width="80" height="40" as="geometry" />
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-50" value="路径规划导航" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
+          <mxGeometry x="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-46" value="目标检测避障" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
+          <mxGeometry x="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-23" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;Civil Project&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#8f8f8f;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-20">
           <mxGeometry x="20" y="160" width="420" height="160" as="geometry">
