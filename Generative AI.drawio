@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T14:38:24.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZQRfA655NiPgfFyTnzH-" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T16:08:54.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jZZqC70Cm1E3DltcFtoZ" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1562" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-2" value="数据集、大厂发文量、公开项目stars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-3" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;Dataset1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#909090;dashed=1;strokeColor=none;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-3" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ArVix&lt;br&gt;Amazon&lt;br&gt;Twitter&lt;br&gt;Wikipedia&lt;br&gt;Google&lt;br&gt;YouTube&lt;br&gt;Yahoo&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#909090;dashed=1;strokeColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-4" target="oZdQhtQClKmFtU5mLZvU-5">
           <mxGeometry relative="1" as="geometry" />
@@ -251,6 +251,15 @@
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-136" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;XR应用&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#74abc3;dashed=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="1480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-142" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;KITTI&lt;br&gt;ApolloSpace&lt;br&gt;Waymo&lt;br&gt;nuScences&lt;br&gt;Argoverse&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#909090;dashed=1;strokeColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-143" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;Kinetics&lt;br&gt;UCF101&lt;br&gt;HMDB51&lt;br&gt;YouTube-8M&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#909090;dashed=1;strokeColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-144" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;ImageNet&lt;br&gt;MNIST&lt;br&gt;CIFAR&lt;br&gt;COCO&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#909090;dashed=1;strokeColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
