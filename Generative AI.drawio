@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:11:41.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="GrFV57hqe8mHLOLiIuYR" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:18:33.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="25no_orMXtBLaFXeHJRU" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1077" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-20" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;3D Applications&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;fillColor=#74abc3;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="520" width="440" height="480" as="geometry">
+          <mxGeometry y="520" width="440" height="520" as="geometry">
             <mxRectangle x="80" y="510" width="40" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -62,10 +62,10 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-41" value="机器人/自动驾驶定位建图" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
           <mxGeometry x="20" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-42" value="&lt;b&gt;准确度&lt;/b&gt;：涉及xxx" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-42" value="&lt;b&gt;准确度&lt;/b&gt;：要求厘米级精度，大多数自动驾驶依赖激光雷达，Tesla使用视觉估计深度，部分低速机器人(扫地机/割草机)使用视觉惯性方案。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
           <mxGeometry x="20" y="40" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-44" value="&lt;b&gt;实时性&lt;/b&gt;：xxxx" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-44" value="&lt;b&gt;实时性&lt;/b&gt;：对实时性要求极高，定位/感知频率越高越好" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
           <mxGeometry x="20" y="80" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-45" value="&lt;b&gt;可视化&lt;/b&gt;：工程项xxx" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-21">
@@ -78,7 +78,7 @@
           <mxGeometry x="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-23" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;Civil Project&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#8f8f8f;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-20">
-          <mxGeometry x="20" y="160" width="420" height="160" as="geometry">
+          <mxGeometry x="20" y="160" width="420" height="200" as="geometry">
             <mxRectangle x="20" y="240" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -94,20 +94,23 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-35" value="局部地图导航" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
           <mxGeometry x="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-33" value="历史遗迹保护" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-33" value="历史遗迹保存" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
           <mxGeometry x="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-37" value="&lt;b&gt;准确度&lt;/b&gt;：涉及工程问题，对三维建图准确度要求在厘米级别，需要使用激光雷达或其他可以获得准确三维测量的设备。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-37" value="&lt;b&gt;准确度&lt;/b&gt;：要求厘米级精度，需要使用激光雷达或其他可以获得准确三维测量的设备。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
           <mxGeometry x="20" y="40" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-38" value="&lt;b&gt;实时性&lt;/b&gt;：可以实时构建场景三维点云地图并实时显示，无后处理或后处理为其他额外功能。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
-          <mxGeometry x="20" y="80" width="400" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-40" value="&lt;b&gt;可视化&lt;/b&gt;：工程项目提供基础可视化即可，对历史遗迹保护等任务需要保留较为精细的色彩纹理信息。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
           <mxGeometry x="20" y="120" width="400" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-40" value="&lt;b&gt;可视化&lt;/b&gt;：工程项目提供基础可视化即可，对历史遗迹保护等任务需要保留较为精细的色彩纹理信息。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
+          <mxGeometry x="20" y="160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-51" value="&lt;b&gt;鲁棒性&lt;/b&gt;：算法在不同工况下可正常工作，室内外，光照较弱环境等。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-23">
+          <mxGeometry x="20" y="80" width="400" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-27" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;X Reality&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#8f8f8f;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-20">
-          <mxGeometry x="20" y="320" width="420" height="160" as="geometry">
+          <mxGeometry x="20" y="360" width="420" height="160" as="geometry">
             <mxRectangle x="20" y="60" width="460" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
