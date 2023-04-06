@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:43:13.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="wkXD2VxBGoc6etPz4jDK" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:44:07.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kpvp5bTry6KxVzDPSM7m" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1077" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-53" value="XR设备空间定位" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
           <mxGeometry x="20" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-54" value="&lt;b&gt;准确度&lt;/b&gt;：对准确度要求较低" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-54" value="&lt;b&gt;准确度&lt;/b&gt;：对准确度要求相对较低" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
           <mxGeometry x="20" y="40" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-55" value="&lt;b&gt;实时性&lt;/b&gt;：实时性要求较高。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
@@ -129,7 +129,7 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-56" value="&lt;b&gt;可视化&lt;/b&gt;：可视化要求极高。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
           <mxGeometry x="20" y="160" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-57" value="&lt;b&gt;鲁棒性&lt;/b&gt;：xxx" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-57" value="&lt;b&gt;鲁棒性&lt;/b&gt;：对鲁棒性要求较低，能在常规家庭环境中使用即可。" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
           <mxGeometry x="20" y="80" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-58" value="三维模型渲染" style="whiteSpace=wrap;html=1;" vertex="1" parent="oZdQhtQClKmFtU5mLZvU-27">
