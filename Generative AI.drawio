@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T06:40:37.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eJm62yf_q_i4do4XOU-X" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T06:42:57.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OyLjO23LRmHnDA3zvufp" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-56" value="&lt;b&gt;可视化&lt;/b&gt;：可视化要求极高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-57" value="&lt;b&gt;鲁棒性&lt;/b&gt;：对鲁棒性要求较低，能在常规家庭环境中使用即可。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-57" value="&lt;b&gt;鲁棒性&lt;/b&gt;：对鲁棒性要求较低，能在常规室内环境使用即可。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-58" value="三维模型渲染" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
