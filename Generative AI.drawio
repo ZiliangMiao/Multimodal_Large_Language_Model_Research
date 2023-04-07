@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T06:35:23.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-9FFTLhHT4Vde61F_Mey" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T06:36:29.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="po3H6JJfQZSJ02pLl9lm" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,10 +91,10 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-37" value="&lt;b&gt;准确度&lt;/b&gt;：要求厘米级精度，需要使用激光雷达或其他可以获得准确三维测量的设备。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-38" value="&lt;b&gt;实时性&lt;/b&gt;：实时构建并显示三维点云地图。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-38" value="&lt;b&gt;实时性&lt;/b&gt;：实时构建并显示三维点云地图，建图所需时间越短越好。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-40" value="&lt;b&gt;可视化&lt;/b&gt;：工程项目提供基础可视化即可，对历史遗迹保护等任务需要保留较为精细的色彩纹理信息。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-40" value="&lt;b&gt;可视化&lt;/b&gt;：工程项目提供基础可视化；历史遗迹保存等任务需保留较为精细的色彩纹理信息。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-51" value="&lt;b&gt;鲁棒性&lt;/b&gt;：要求算法在不同工况下（室内外，弱光照等）可正常工作。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
