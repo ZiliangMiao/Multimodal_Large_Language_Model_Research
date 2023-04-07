@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T07:08:01.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ko57RXNv-2-shLCXD9bF" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T07:09:37.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tgrOJ8A-qnKiIdjeUzO1" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -372,7 +372,7 @@
         <mxCell id="gIHsf0s4EfeESZTUKeBF-36" value="&lt;b&gt;LVI-SAM&lt;/b&gt;：结合VINS-Mono和LIO-SAM两个子系统，使用因子图优化激光-视觉-惯性里程计。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-37" value="&lt;b&gt;Fast-LIVO&lt;/b&gt;：无" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-37" value="&lt;b&gt;Fast-LIVO&lt;/b&gt;：VIO和LIO两个子系统，VIO不提取图像特征点，使用基于图像块的误差，更为准确。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-40" value="&lt;b&gt;Fast-LIO2&lt;/b&gt;：使用增量式kdtree数据结构，不再提取点云特征，使用全部点计算，准确度高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
