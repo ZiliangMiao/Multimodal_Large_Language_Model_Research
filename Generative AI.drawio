@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T06:36:29.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="po3H6JJfQZSJ02pLl9lm" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T06:40:37.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="eJm62yf_q_i4do4XOU-X" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-53" value="XR设备空间定位" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="20" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-54" value="&lt;b&gt;准确度&lt;/b&gt;：对准确度要求相对较低" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-54" value="&lt;b&gt;准确度&lt;/b&gt;：XR定位精度要求不高，常用视觉惯性方案；对三维模型及渲染精度要求较高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-55" value="&lt;b&gt;实时性&lt;/b&gt;：实时性要求较高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
