@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T07:44:04.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kHgnPMZxpE1wWh6bmxfV" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T07:59:46.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hNgTpkYMM92wZWsCGQUa" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -406,26 +406,26 @@
             <mxRectangle x="20" y="60" width="460" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-54" value="&lt;b&gt;DreamFusion&lt;/b&gt;：对准" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-54" value="&lt;b&gt;DreamFusion&lt;/b&gt;：使用diffusion模型从文本生成图像，再优化一个随机初始化的NeRF模型。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Scene&lt;/b&gt;：使用4D NeRF和Text-to-video diffusion模型，通过文本生成3D动态场景。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
-          <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-56" value="&lt;b&gt;Point-E&lt;/b&gt;：使用diffusion模型从文本生成图片，再基于diffusion模型将图片生成点云。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
-          <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-61" value="&lt;b&gt;Magic3D&lt;/b&gt;：对准确" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
-          <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-57" value="&lt;b&gt;Text-to-3D Generation&lt;/b&gt;：对" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-62" value="&lt;b&gt;LERF&lt;/b&gt;：将3D CLIP方法与NeRF结合，可以使用文本在NeRF模型中进行查询，高亮文本对应区域。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
-          <mxGeometry x="20" y="100" width="540" height="20" as="geometry" />
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-61" value="&lt;b&gt;Magic3D&lt;/b&gt;：比DreamFusion更快且分辨率更高，使用两阶段优化框架。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+          <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-63" value="&lt;b&gt;Instruct-NeRF2NeRF&lt;/b&gt;：实时性要求较高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-62" value="&lt;b&gt;LERF&lt;/b&gt;：将3D CLIP方法与NeRF结合，可以使用文本在NeRF模型中进行查询，高亮文本对应区域。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+          <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-63" value="&lt;b&gt;Instruct-NeRF2NeRF&lt;/b&gt;：使用diffusion模型，通过文本指令修改NeRF的输入图片，逐步修改NeRF。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" y="120" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-84" value="&lt;b&gt;GET3D&lt;/b&gt;：通过几何生成分支和纹理生成分支，通过2D图像高保真3D模型。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+          <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Scene&lt;/b&gt;：使用4D NeRF和Text-to-video diffusion模型，通过文本生成3D动态场景。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+          <mxGeometry x="20" y="100" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-65" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OpenAI GPT&lt;br&gt;Google PaLM&lt;br&gt;Meta LLaMA&lt;br&gt;Hugging Face Bloom&lt;br&gt;Cohere&lt;br&gt;Baidu Wenxin&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0378c5;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="250" width="120" height="180" as="geometry" />
