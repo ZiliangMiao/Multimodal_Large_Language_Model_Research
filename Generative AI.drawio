@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:54:08.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6tAp4xmzqTGdRsDwYO6i" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:56:06.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vTkjMfZTTMlz_SWj_69C" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="819" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             <mxRectangle x="20" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-41" value="机器人/自动驾驶定位建图" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-41" value="机器人/自动驾驶定位建图" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
           <mxGeometry x="20" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-42" value="&lt;b&gt;准确度&lt;/b&gt;：厘米级精度，大多依赖激光雷达，少数视觉估计深度；部分低速机器人使用视觉惯性方案。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
@@ -71,10 +71,10 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-45" value="&lt;b&gt;可视化&lt;/b&gt;：无可视化要求。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
           <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-50" value="路径规划导航" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-50" value="路径规划导航" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
           <mxGeometry x="200" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-46" value="目标检测避障" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-46" value="目标检测避障" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
           <mxGeometry x="380" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-52" value="&lt;b&gt;鲁棒性&lt;/b&gt;：对鲁棒性要求较高，在不同天气，不同光照条件都需要算法能够稳定运行。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
@@ -88,19 +88,19 @@
             <mxRectangle x="20" y="240" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-29" value="工程进度管理" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-29" value="工程进度管理" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="20" width="108" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-32" value="工程偏差修正" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-32" value="工程偏差修正" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="128" width="108" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-34" value="工程缺陷检测" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-34" value="工程缺陷检测" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="236" width="108" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-35" value="局部地图导航" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-35" value="局部地图导航" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="344" width="108" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-33" value="历史遗迹保存" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-33" value="历史遗迹保存" style="whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#8f8f8f;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
           <mxGeometry x="452" width="108" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-37" value="&lt;b&gt;准确度&lt;/b&gt;：要求厘米级精度，需要使用激光雷达或其他可以获得准确三维测量的设备。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-23" vertex="1">
@@ -120,7 +120,7 @@
             <mxRectangle x="20" y="60" width="460" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-53" value="XR设备空间定位" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#666666;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-53" value="XR设备空间定位" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="20" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-54" value="&lt;b&gt;准确度&lt;/b&gt;：对准确度要求相对较低" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
@@ -135,13 +135,13 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-57" value="&lt;b&gt;鲁棒性&lt;/b&gt;：对鲁棒性要求较低，能在常规家庭环境中使用即可。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-58" value="三维模型渲染" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#666666;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-58" value="三维模型渲染" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="155" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-59" value="游戏内容创作" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#666666;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-59" value="游戏内容创作" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="425" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-68" value="三维模型生成" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#666666;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-68" value="三维模型生成" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="290" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oZdQhtQClKmFtU5mLZvU-78" target="oZdQhtQClKmFtU5mLZvU-81" edge="1">
