@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T07:09:37.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tgrOJ8A-qnKiIdjeUzO1" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T07:13:37.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tpp5FCdgBTooBVj-LRbr" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,10 +409,10 @@
         <mxCell id="gIHsf0s4EfeESZTUKeBF-54" value="&lt;b&gt;DreamFusion&lt;/b&gt;：对准确度要求相对较低" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Dynamic Scene Generation&lt;/b&gt;：实时性要求较高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Scene&lt;/b&gt;：使用4D NeRF和Text-to-video diffusion模型，通过文本生成3D动态场景。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-56" value="&lt;b&gt;Point-E&lt;/b&gt;：可视化要求极高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-56" value="&lt;b&gt;Point-E&lt;/b&gt;：使用diffusion模型从文本生成图片，再基于diffusion模型将图片生成点云。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-61" value="&lt;b&gt;Magic3D&lt;/b&gt;：对准确度要求相对较低" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
@@ -421,7 +421,7 @@
         <mxCell id="gIHsf0s4EfeESZTUKeBF-57" value="&lt;b&gt;Text-to-3D Generation&lt;/b&gt;：对鲁棒性要求较低，能在常规家庭环境中使用即可。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-62" value="&lt;b&gt;LERF&lt;/b&gt;：实时性要求较高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-62" value="&lt;b&gt;LERF&lt;/b&gt;：将3D CLIP方法与NeRF结合，可以使用文本在NeRF模型中进行查询，高亮文本对应区域。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
           <mxGeometry x="20" y="100" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-63" value="&lt;b&gt;Instruct-NeRF2NeRF&lt;/b&gt;：实时性要求较高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
