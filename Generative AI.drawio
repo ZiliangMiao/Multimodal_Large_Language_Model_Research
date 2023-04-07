@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T03:48:59.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PgmCk5TM0oncSDhghKLc" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T04:01:40.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EXZujL22a_OfY_LkIG54" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1195" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -352,7 +352,7 @@
             <mxRectangle x="20" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-35" value="&lt;b&gt;LIO-SAM&lt;/b&gt;：LiDAR与IMU的紧耦合，使用IMU预积分对点云去畸变，IMU预积分，LiDAR里程计，GPS，回环检测加入因子图优化&lt;br&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MEK0do9U7oozmtxckt0cRskTnnb&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;LiDAR与IMU的紧耦合，使用IMU预积分对点云去畸变，IMU预积分，LiDAR里程计，GPS，回环检测加入因子图优化&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+1o&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7212450538829807644&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:309,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:60},&amp;quot;recordId&amp;quot;:&amp;quot;RgcadmSseosGyIxmkgaccmcRnFe&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-35" value="&lt;b&gt;LIO-SAM&lt;/b&gt;：LiDAR与IMU的&lt;br&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MEK0do9U7oozmtxckt0cRskTnnb&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;LiDAR与IMU的紧耦合，使用IMU预积分对点云去畸变，IMU预积分，LiDAR里程计，GPS，回环检测加入因子图优化&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+1o&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7212450538829807644&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:309,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:60},&amp;quot;recordId&amp;quot;:&amp;quot;RgcadmSseosGyIxmkgaccmcRnFe&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-36" value="&lt;b&gt;LVI-SAM&lt;/b&gt;：对" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
@@ -372,17 +372,20 @@
             <mxRectangle x="20" y="240" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-48" value="&lt;b&gt;准确度&lt;/b&gt;：要求厘米级精度，需要使用激光雷达或其他可以获得准确三维测量的设备。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-48" value="&lt;b&gt;NeRF&lt;/b&gt;：要求厘米级精度，需要使用激光雷达或其他可以获得准确三维测量的设备。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-49" value="&lt;b&gt;实时性&lt;/b&gt;：可以实时构建场景三维点云地图并实时显示，无后处理或后处理为其他额外功能。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-49" value="&lt;b&gt;Nerfacto&lt;/b&gt;：可以实时构建场景三维点云地图并实时显示，无后处理或后处理为其他额外功能。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-50" value="&lt;b&gt;可视化&lt;/b&gt;：工程项目提供基础可视化即可，对历史遗迹保护等任务需要保留较为精细的色彩纹理信息。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-50" value="&lt;b&gt;Instant NeRF&lt;/b&gt;：工程项目提供基础可视化" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-51" value="&lt;b&gt;鲁棒性&lt;/b&gt;：算法在不同工况下可正常工作，室内外，光照较弱环境等。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-51" value="&lt;b&gt;Mip-NeRF&lt;/b&gt;：算法在不同工况下可正常工作，室内外，光照较弱环境等。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
           <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-70" value="&lt;b&gt;NeRF2Mesh&lt;/b&gt;：工程项目提供基础可视化" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+          <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-52" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Text-to-3D&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#b4dae7;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-32">
           <mxGeometry x="20" y="180" width="560" height="140" as="geometry">
