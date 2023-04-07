@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T07:37:41.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ho3fymJZ__lNlJeA8Eyu" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T07:44:04.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kHgnPMZxpE1wWh6bmxfV" version="21.0.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="989" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
         <mxCell id="gIHsf0s4EfeESZTUKeBF-48" value="&lt;b&gt;NeRF&lt;/b&gt;：使用五维神经辐射场实现对复杂场景的隐式表示。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-49" value="&lt;b&gt;Nerfacto&lt;/b&gt;：可" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-49" value="&lt;b&gt;Plenoxels&lt;/b&gt;：Luma的CTO Alex Yu的方法，不使用神经网络，直接优化，大幅降低优化时间。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-50" value="&lt;b&gt;Instant NeRF&lt;/b&gt;：NVIDIA提出了一种多分辨率哈希编码技术，大幅度提升了NeRF的训练速度。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
