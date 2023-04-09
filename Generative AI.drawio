@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T08:18:02.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="C8s0JOXe4q8W5_fxn_ox" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-09T02:57:50.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BDXyNdJXWZ9Q0DgBJipf" version="21.1.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1816" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-52" value="&lt;b&gt;鲁棒性&lt;/b&gt;：对鲁棒性要求极高，在不同场景，在不同天气，不同光照条件都需要算法能够稳定运行。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="oZdQhtQClKmFtU5mLZvU-21" vertex="1">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="oZdQhtQClKmFtU5mLZvU-21" source="oZdQhtQClKmFtU5mLZvU-44" target="oZdQhtQClKmFtU5mLZvU-44">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="oZdQhtQClKmFtU5mLZvU-21" source="oZdQhtQClKmFtU5mLZvU-44" target="oZdQhtQClKmFtU5mLZvU-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-23" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;土木建筑&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#8f8f8f;" parent="oZdQhtQClKmFtU5mLZvU-20" vertex="1">
@@ -129,10 +129,10 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-68" value="三维模型生成" style="whiteSpace=wrap;html=1;fillColor=#8f8f8f;fontColor=#ffffff;strokeColor=#000000;" parent="oZdQhtQClKmFtU5mLZvU-27" vertex="1">
           <mxGeometry x="290" width="135" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-78" target="oZdQhtQClKmFtU5mLZvU-81">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oZdQhtQClKmFtU5mLZvU-78" target="oZdQhtQClKmFtU5mLZvU-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-78" target="oZdQhtQClKmFtU5mLZvU-134">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oZdQhtQClKmFtU5mLZvU-78" target="oZdQhtQClKmFtU5mLZvU-134" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-140.03" y="1750.03" />
@@ -173,22 +173,22 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oZdQhtQClKmFtU5mLZvU-85" target="oZdQhtQClKmFtU5mLZvU-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-85" target="oZdQhtQClKmFtU5mLZvU-113">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oZdQhtQClKmFtU5mLZvU-85" target="oZdQhtQClKmFtU5mLZvU-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-85" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;AI大模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#74abc3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="299.97" y="1850.03" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-81">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-127">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-113">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-134">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oZdQhtQClKmFtU5mLZvU-88" target="oZdQhtQClKmFtU5mLZvU-134" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-140.03" y="1790.03" />
@@ -260,187 +260,193 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-144" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;ImageNet&lt;br&gt;MNIST&lt;br&gt;CIFAR&lt;br&gt;COCO&lt;br&gt;OpenImages&lt;br&gt;FFDB&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ea6dd;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="100" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-1" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-1" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
           <mxGeometry x="-80" y="550" width="830" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-6" target="gIHsf0s4EfeESZTUKeBF-7">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-2" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-6" target="gIHsf0s4EfeESZTUKeBF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-6" target="gIHsf0s4EfeESZTUKeBF-9">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-6" target="gIHsf0s4EfeESZTUKeBF-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-6" value="3D内容生成" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-6" value="3D内容生成" style="ellipse;whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="40" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-7" value="PGC/UGC" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-7" value="PGC/UGC" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="165" y="80" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-31" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-9" target="gIHsf0s4EfeESZTUKeBF-14">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-31" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-9" target="gIHsf0s4EfeESZTUKeBF-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-9" value="AIGC" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-9" value="AIGC" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="170" y="150" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-12" source="gIHsf0s4EfeESZTUKeBF-7" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-7" target="gIHsf0s4EfeESZTUKeBF-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="602" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-12" value="人工3D模型绘制" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#0378c5;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-12" value="人工3D模型绘制" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#0378c5;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="295" y="40" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-14" source="gIHsf0s4EfeESZTUKeBF-7" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-13" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-7" target="gIHsf0s4EfeESZTUKeBF-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="910" y="602" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-14" value="基于现实生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-14" value="基于现实生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="294" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-17" source="gIHsf0s4EfeESZTUKeBF-14" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-16" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-14" target="gIHsf0s4EfeESZTUKeBF-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-17" value="基于三维激光扫描生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#4ea6dd;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-17" value="基于三维激光扫描生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#4ea6dd;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="450" y="80" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-19" source="gIHsf0s4EfeESZTUKeBF-14" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-14" target="gIHsf0s4EfeESZTUKeBF-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-19" value="基于图片生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#84c4e8;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-19" value="基于图片生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#84c4e8;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="450" y="130" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-21" source="gIHsf0s4EfeESZTUKeBF-9" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-20" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-9" target="gIHsf0s4EfeESZTUKeBF-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="595" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-21" value="基于自然语言生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b4dae7;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-21" value="基于自然语言生成" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b4dae7;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="275" y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-23" source="gIHsf0s4EfeESZTUKeBF-12" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-22" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-12" target="gIHsf0s4EfeESZTUKeBF-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-23" value="C4D/Rhino/3DS Max" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#0378c5;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-23" value="C4D/Rhino/3DS Max" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#0378c5;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="470" y="20.5" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-25" source="gIHsf0s4EfeESZTUKeBF-19" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-24" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-19" target="gIHsf0s4EfeESZTUKeBF-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170" y="595" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-25" value="NeRF" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#84c4e8;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-25" value="NeRF" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#84c4e8;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="590" y="130" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-27" source="gIHsf0s4EfeESZTUKeBF-21" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-21" target="gIHsf0s4EfeESZTUKeBF-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="995" y="645" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-27" value="DreamFusion/Text-to-3D" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b4dae7;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-27" value="DreamFusion/Text-to-3D" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#b4dae7;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="460" y="190.5" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="gIHsf0s4EfeESZTUKeBF-29" source="gIHsf0s4EfeESZTUKeBF-17" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="gIHsf0s4EfeESZTUKeBF-1" source="gIHsf0s4EfeESZTUKeBF-17" target="gIHsf0s4EfeESZTUKeBF-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170" y="595" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-29" value="LiDAR SLAM" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#4ea6dd;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-29" value="LiDAR SLAM" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#4ea6dd;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="630" y="80" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-82" value="*颜色越深表示技术成熟度越高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-82" value="*颜色越深表示技术成熟度越高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="gIHsf0s4EfeESZTUKeBF-1" vertex="1">
           <mxGeometry x="40" y="190.5" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-32" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;3D生成算法&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;fillColor=#909090;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-32" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;3D生成算法&lt;/font&gt;" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;fillColor=#909090;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="1169" width="580" height="320" as="geometry">
             <mxRectangle x="80" y="510" width="40" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-33" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;SLAM&lt;/span&gt;&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#4ea6dd;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-32">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-33" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;SLAM&lt;/span&gt;&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#4ea6dd;" parent="gIHsf0s4EfeESZTUKeBF-32" vertex="1">
           <mxGeometry x="20" width="560" height="80" as="geometry">
             <mxRectangle x="20" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-35" value="&lt;b&gt;LIO-SAM&lt;/b&gt;：LiDAR与IMU紧耦合融合，IMU预积分去点云畸变，里程计-回环检测-GPS 因子图优化。&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MEK0do9U7oozmtxckt0cRskTnnb&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;LiDAR与IMU的紧耦合，使用IMU预积分对点云去畸变，IMU预积分，LiDAR里程计，GPS，回环检测加入因子图优化&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+1o&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7212450538829807644&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:309,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:60},&amp;quot;recordId&amp;quot;:&amp;quot;RgcadmSseosGyIxmkgaccmcRnFe&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-35" value="&lt;b&gt;LIO-SAM&lt;/b&gt;：LiDAR与IMU紧耦合融合，IMU预积分去点云畸变，里程计-回环检测-GPS 因子图优化。&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;MEK0do9U7oozmtxckt0cRskTnnb&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;LiDAR与IMU的紧耦合，使用IMU预积分对点云去畸变，IMU预积分，LiDAR里程计，GPS，回环检测加入因子图优化&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+1o&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7212450538829807644&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:309,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:60},&amp;quot;recordId&amp;quot;:&amp;quot;RgcadmSseosGyIxmkgaccmcRnFe&amp;quot;}],&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-33" vertex="1">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-36" value="&lt;b&gt;LVI-SAM&lt;/b&gt;：结合VINS-Mono和LIO-SAM两个子系统，使用因子图优化激光-视觉-惯性里程计。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-36" value="&lt;b&gt;LVI-SAM&lt;/b&gt;：结合VINS-Mono和LIO-SAM两个子系统，使用因子图优化激光-视觉-惯性里程计。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-33" vertex="1">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-37" value="&lt;b&gt;Fast-LIVO&lt;/b&gt;：VIO和LIO两个子系统，VIO不提取图像特征点，使用基于图像块的误差，更为准确。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-37" value="&lt;b&gt;Fast-LIVO&lt;/b&gt;：VIO和LIO两个子系统，VIO不提取图像特征点，使用基于图像块的误差，更为准确。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-33" vertex="1">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-40" value="&lt;b&gt;Fast-LIO2&lt;/b&gt;：使用增量式kdtree数据结构，不再提取点云特征，使用全部点计算，准确度高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-33">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-40" value="&lt;b&gt;Fast-LIO2&lt;/b&gt;：使用增量式kdtree数据结构，不再提取点云特征，使用全部点计算，准确度高。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-33" vertex="1">
           <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="gIHsf0s4EfeESZTUKeBF-33" source="gIHsf0s4EfeESZTUKeBF-36" target="gIHsf0s4EfeESZTUKeBF-36">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="gIHsf0s4EfeESZTUKeBF-33" source="gIHsf0s4EfeESZTUKeBF-36" target="gIHsf0s4EfeESZTUKeBF-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-42" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;NeRF&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#84c4e8;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-32">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-42" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;NeRF&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#84c4e8;" parent="gIHsf0s4EfeESZTUKeBF-32" vertex="1">
           <mxGeometry x="20" y="80" width="560" height="100" as="geometry">
             <mxRectangle x="20" y="240" width="420" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-48" value="&lt;b&gt;NeRF&lt;/b&gt;：使用五维神经辐射场实现对复杂场景的隐式表示。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-48" value="&lt;b&gt;NeRF&lt;/b&gt;：使用五维神经辐射场实现对复杂场景的隐式表示。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-42" vertex="1">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-49" value="&lt;b&gt;Plenoxels&lt;/b&gt;：Luma的CTO Alex Yu的方法，不使用神经网络，直接优化，大幅降低优化时间。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-49" value="&lt;b&gt;Plenoxels&lt;/b&gt;：Luma的CTO Alex Yu的方法，不使用神经网络，直接优化，大幅降低优化时间。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-42" vertex="1">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-50" value="&lt;b&gt;Instant NeRF&lt;/b&gt;：NVIDIA提出了一种多分辨率哈希编码技术，大幅度提升了NeRF的训练速度。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-50" value="&lt;b&gt;Instant NeRF&lt;/b&gt;：NVIDIA提出了一种多分辨率哈希编码技术，大幅度提升了NeRF的训练速度。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-42" vertex="1">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-51" value="&lt;b&gt;Mip-NeRF&lt;/b&gt;：使用了基于视锥的采样策略，提升了NeRF表示精细细节的能力，模型更小，速度更快。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-51" value="&lt;b&gt;Mip-NeRF&lt;/b&gt;：使用了基于视锥的采样策略，提升了NeRF表示精细细节的能力，模型更小，速度更快。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-42" vertex="1">
           <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-70" value="&lt;b&gt;NeRFMeshing&lt;/b&gt;：NeRF是隐式表示，多数3D实时渲染和仿真只支持mesh，本文从NeRF中取Mesh。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-42">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-70" value="&lt;b&gt;NeRFMeshing&lt;/b&gt;：NeRF是隐式表示，多数3D实时渲染和仿真只支持mesh，本文从NeRF中取Mesh。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-42" vertex="1">
           <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-52" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Text-to-3D&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#b4dae7;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-32">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-52" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Text-to-3D&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#b4dae7;" parent="gIHsf0s4EfeESZTUKeBF-32" vertex="1">
           <mxGeometry x="20" y="180" width="560" height="140" as="geometry">
             <mxRectangle x="20" y="60" width="460" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-54" value="&lt;b&gt;DreamFusion&lt;/b&gt;：使用diffusion模型从文本生成图像，再优化一个随机初始化的NeRF模型。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-54" value="&lt;b&gt;DreamFusion&lt;/b&gt;：使用diffusion模型从文本生成图像，再优化一个随机初始化的NeRF模型。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-56" value="&lt;b&gt;Point-E&lt;/b&gt;：使用diffusion模型从文本生成图片，再基于diffusion模型将图片生成点云。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-56" value="&lt;b&gt;Point-E&lt;/b&gt;：使用diffusion模型从文本生成图片，再基于diffusion模型将图片生成点云。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="60" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-61" value="&lt;b&gt;Magic3D&lt;/b&gt;：比DreamFusion更快且分辨率更高，使用两阶段优化框架。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-61" value="&lt;b&gt;Magic3D&lt;/b&gt;：比DreamFusion更快且分辨率更高，使用两阶段优化框架。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="20" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-62" value="&lt;b&gt;LERF&lt;/b&gt;：将3D CLIP方法与NeRF结合，可以使用文本在NeRF模型中进行查询，高亮文本对应区域。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-62" value="&lt;b&gt;LERF&lt;/b&gt;：将3D CLIP方法与NeRF结合，可以使用文本在NeRF模型中进行查询，高亮文本对应区域。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="80" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-63" value="&lt;b&gt;Instruct-NeRF2NeRF&lt;/b&gt;：使用diffusion模型，通过文本指令修改NeRF的输入图片，逐步修改NeRF。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-63" value="&lt;b&gt;Instruct-NeRF2NeRF&lt;/b&gt;：使用diffusion模型，通过文本指令修改NeRF的输入图片，逐步修改NeRF。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="120" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-84" value="&lt;b&gt;GET3D&lt;/b&gt;：通过几何生成分支和纹理生成分支，通过2D图像高保真3D模型。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-84" value="&lt;b&gt;GET3D&lt;/b&gt;：通过几何生成分支和纹理生成分支，通过2D图像高保真3D模型。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="40" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Scene&lt;/b&gt;：使用4D NeRF和Text-to-video diffusion模型，通过文本生成3D动态场景。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="gIHsf0s4EfeESZTUKeBF-52">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Scene&lt;/b&gt;：使用4D NeRF和Text-to-video diffusion模型，通过文本生成3D动态场景。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="100" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-65" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OpenAI GPT&lt;br&gt;Google PaLM&lt;br&gt;Meta LLaMA&lt;br&gt;Hugging Face Bloom&lt;br&gt;Cohere&lt;br&gt;Baidu Wenxin&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0378c5;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-65" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OpenAI GPT&lt;br&gt;Google PaLM&lt;br&gt;Meta LLaMA&lt;br&gt;Hugging Face Bloom&lt;br&gt;Cohere&lt;br&gt;Baidu Wenxin&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0378c5;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="300" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-67" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;OpenAI DALL.E&lt;br&gt;Stability Stable Diffusion&lt;br&gt;Midjourney&lt;br&gt;Google ViT&lt;br&gt;OpenAI CLIP&lt;br&gt;Meta MAE&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ea6dd;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-67" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;OpenAI DALL.E&lt;br&gt;Stability Stable Diffusion&lt;br&gt;Midjourney&lt;br&gt;Google ViT&lt;br&gt;OpenAI CLIP&lt;br&gt;Meta MAE&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ea6dd;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="300" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-68" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;VideoMAE&lt;br&gt;X-CLIP&lt;br&gt;Make-A-Video&lt;br&gt;VideoFusion&lt;br&gt;....&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#84c4e8;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-68" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;VideoMAE&lt;br&gt;X-CLIP&lt;br&gt;Make-A-Video&lt;br&gt;VideoFusion&lt;br&gt;....&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#84c4e8;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-69" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;DreamFusion&lt;br&gt;Get3D&lt;br&gt;Point-E&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b4dae7;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-69" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;DreamFusion&lt;br&gt;Get3D&lt;br&gt;Point-E&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b4dae7;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-83" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;*颜色越深表示数据量及AI模型数量越多&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-83" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;*颜色越深表示数据量及AI模型数量越多&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="450" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzJhGmusyJennZRxBXUd-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Open Datasets&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="110" width="70" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pzJhGmusyJennZRxBXUd-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Generative Models&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="307.5" width="70" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
