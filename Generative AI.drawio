@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:42:32.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="JECL7BGNSjUzBnQyvMIv" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:46:27.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="42qDSMP0sByXnnylm6HN" version="21.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2389" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,10 +248,10 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-142" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;KITTI&lt;br&gt;Waymo&lt;br&gt;nuScences&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83bfe3;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="170" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-143" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;Kinetics&lt;br&gt;UCF101&lt;br&gt;HMDB51&lt;br&gt;YouTube-8M&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#559ec9;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-143" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;UCF101&lt;br&gt;Kinetics&lt;br&gt;HMDB51&lt;br&gt;Human3.6M&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#559ec9;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="140" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-144" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;ImageNet&lt;br&gt;MNIST&lt;br&gt;CIFAR&lt;br&gt;COCO&lt;br&gt;OpenImages&lt;br&gt;FFDB&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-144" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;CIFAR-10&lt;br&gt;ImageNet&lt;br&gt;COCO&lt;br&gt;MNIST&lt;br&gt;Cityscapes&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="100" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-1" value="Mindmap" style="swimlane;startSize=20;horizontal=1;containerType=tree;" parent="1" vertex="1">
@@ -424,7 +424,7 @@
         <mxCell id="gIHsf0s4EfeESZTUKeBF-65" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OpenAI GPT&lt;br&gt;Google PaLM&lt;br&gt;Meta LLaMA&lt;br&gt;Hugging Face Bloom&lt;br&gt;Cohere&lt;br&gt;Baidu Wenxin&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="300" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-67" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;OpenAI DALL.E&lt;br&gt;Stability Stable Diffusion&lt;br&gt;Midjourney&lt;br&gt;Google ViT&lt;br&gt;OpenAI CLIP&lt;br&gt;Meta MAE&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-67" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;OpenAI DALL.E&lt;br&gt;Stability&lt;br&gt;Midjourney&lt;br&gt;Google ViT&lt;br&gt;OpenAI CLIP&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="300" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-68" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;VideoMAE&lt;br&gt;X-CLIP&lt;br&gt;Make-A-Video&lt;br&gt;VideoFusion&lt;br&gt;....&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#559ec9;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
