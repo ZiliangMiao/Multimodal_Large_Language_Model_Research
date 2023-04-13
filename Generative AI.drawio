@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T16:57:42.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XRhw-h0ze49vgMpyqAo0" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T17:39:44.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hwDCwXlQhJn9S2kS1_0C" version="21.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2185" dy="1918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2780" dy="2245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,24 +682,24 @@
           <mxGeometry x="880" y="1719" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-94" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;硬件设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1310" width="200" height="40" as="geometry" />
+          <mxGeometry x="1720" y="1290" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-100" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;视觉设备/XR&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1348.97" width="100" height="40" as="geometry" />
+          <mxGeometry x="1720" y="1328.97" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-101" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;激光扫描设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1350" width="100" height="40" as="geometry" />
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-101" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;XR&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1330" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-102" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Apple&lt;br&gt;HUAWEI&lt;br&gt;Meta&lt;br&gt;Microsoft&lt;br&gt;Pico&lt;br&gt;VIVE&lt;br&gt;Leia ...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="1388.97" width="100" height="150" as="geometry" />
+          <mxGeometry x="1720" y="1368.97" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-103" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Leica&lt;br&gt;Faro&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;GeoSLAM&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Navvis&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;FJD&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;XGRIDS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1390" width="100" height="150" as="geometry" />
+          <mxGeometry x="1460" y="1720.03" width="100" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="1620" as="sourcePoint" />
-            <mxPoint x="1630" y="1620" as="targetPoint" />
+            <mxPoint x="1890" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;上游&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBNs1XedIZKuOuS7RUrL-105">
@@ -709,10 +709,10 @@
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-107" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;下游&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBNs1XedIZKuOuS7RUrL-105">
           <mxGeometry x="0.7881" y="1" relative="1" as="geometry">
-            <mxPoint x="104" as="offset" />
+            <mxPoint x="138" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三维重建&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三维重建服务/设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1360" y="1639" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-109" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;算法&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
@@ -729,6 +729,18 @@
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-114" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;激光重建&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1679" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-115" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三维引擎&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1679" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-116" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Blender&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Unreal Engine&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Unity&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1719" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-117" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;软件&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1639" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-118" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Luma AI&lt;br&gt;NerfStudio&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Volinga AI&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Alethea AI&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Kinetix&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1719" width="100" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
