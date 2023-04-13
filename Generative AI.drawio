@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T13:46:27.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="42qDSMP0sByXnnylm6HN" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T13:46:45.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="2pZvwCD3vYJ2s_vG69Co" version="21.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1904" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -421,7 +421,7 @@
         <mxCell id="gIHsf0s4EfeESZTUKeBF-55" value="&lt;b&gt;Text-to-4D Scene&lt;/b&gt;：使用4D NeRF和Text-to-video diffusion模型，通过文本生成3D动态场景。" style="whiteSpace=wrap;html=1;align=left;fillColor=none;strokeColor=none;" parent="gIHsf0s4EfeESZTUKeBF-52" vertex="1">
           <mxGeometry x="20" y="100" width="540" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gIHsf0s4EfeESZTUKeBF-65" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OpenAI GPT&lt;br&gt;Google PaLM&lt;br&gt;Meta LLaMA&lt;br&gt;Hugging Face Bloom&lt;br&gt;Cohere&lt;br&gt;Baidu Wenxin&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="gIHsf0s4EfeESZTUKeBF-65" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;OpenAI GPT&lt;br&gt;Google PaLM&lt;br&gt;Meta LLaMA&lt;br&gt;Hugging Face&lt;br&gt;Cohere&lt;br&gt;Baidu Wenxin&lt;br&gt;...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="-10" y="300" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gIHsf0s4EfeESZTUKeBF-67" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;OpenAI DALL.E&lt;br&gt;Stability&lt;br&gt;Midjourney&lt;br&gt;Google ViT&lt;br&gt;OpenAI CLIP&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
