@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T01:56:39.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wFgOhKGY5QQffibBSAS0" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T02:02:18.881Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Dl6THV799P8Hgbundehb" version="21.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1613" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -853,6 +853,30 @@
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-160" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#0d5e8d;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="1381" y="120" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-161" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#83bfe3;sketch=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="905" y="5" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-162" value="定位精度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-163" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#559ec9;sketch=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="905" y="25" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-164" value="定位鲁棒性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-165" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#3380ac;sketch=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="905" y="45" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-166" value="算法实时性" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-167" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#0d5e8d;sketch=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="905" y="65" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-168" value="可视化要求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="70" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
