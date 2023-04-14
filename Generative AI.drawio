@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T01:48:48.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nkinDfDE8FwPM9n8n29K" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T01:52:07.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="04O33af464UBmgCLdFke" version="21.1.5" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2203" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
         <mxCell id="oZdQhtQClKmFtU5mLZvU-136" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;XR应用&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#74abc3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="649.97" y="1850.03" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oZdQhtQClKmFtU5mLZvU-142" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;手机 / XR&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#83bfe3;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="oZdQhtQClKmFtU5mLZvU-142" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;手机 / XR&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#83bfe3;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oZdQhtQClKmFtU5mLZvU-143" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;UCF101&lt;br&gt;Kinetics&lt;br&gt;HMDB51&lt;br&gt;Human3.6M&lt;br&gt;...&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#559ec9;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
@@ -775,13 +775,13 @@
         <mxCell id="CBNs1XedIZKuOuS7RUrL-131" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1920" y="1719" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-132" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;自动驾驶&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-132" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;自动驾驶&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1361" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-133" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;机器人&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-133" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;机器人&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-135" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;土木&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-135" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ffffff&quot;&gt;土木&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3380ac;strokeColor=default;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1200" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-139" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -789,6 +789,25 @@
             <mxPoint x="880" y="260" as="sourcePoint" />
             <mxPoint x="1520" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-140" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;场景距离&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBNs1XedIZKuOuS7RUrL-139">
+          <mxGeometry x="0.9051" relative="1" as="geometry">
+            <mxPoint x="25" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-141" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="260" as="sourcePoint" />
+            <mxPoint x="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;技术指标&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CBNs1XedIZKuOuS7RUrL-141">
+          <mxGeometry x="0.8156" relative="1" as="geometry">
+            <mxPoint x="40" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-145" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="20" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
