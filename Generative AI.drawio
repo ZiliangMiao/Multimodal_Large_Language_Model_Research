@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T01:24:41.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="d40XemyY0ajYV_3ZWsJf" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T02:17:27.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cl4rnMoXCln2AaiJVB4v" version="21.1.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1776" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -753,17 +753,17 @@
         <mxCell id="CBNs1XedIZKuOuS7RUrL-92" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Leica&lt;br&gt;Mindvision&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;SONY&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="880" y="1719" width="80" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-94" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;硬件设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="1639" width="160" height="40" as="geometry" />
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-94" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;终端设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="2030" y="1640.03" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-100" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;手机/电脑&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="1679" width="80" height="40" as="geometry" />
+          <mxGeometry x="2030" y="1680.03" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-101" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;XR设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1679" width="80" height="40" as="geometry" />
+          <mxGeometry x="2110" y="1680.03" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-102" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Apple&lt;br&gt;HUAWEI&amp;nbsp;&lt;br&gt;Leia Inc...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="1719" width="80" height="150" as="geometry" />
+          <mxGeometry x="2030" y="1720.03" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-103" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Leica&lt;br&gt;Faro&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;GeoSLAM&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Navvis&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;FJD&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;XGRIDS&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1321" y="1720.03" width="80" height="150" as="geometry" />
@@ -784,7 +784,7 @@
             <mxPoint x="104" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三维重建生成 服务/设备&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三维重建生成设备/服务&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1241" y="1640.03" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-109" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;算法&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
@@ -833,7 +833,7 @@
           <mxGeometry x="1401" y="1720.03" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-125" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Apple&lt;br&gt;Meta&lt;br&gt;Microsoft&lt;br&gt;Pico&lt;br&gt;VIVE...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1719" width="80" height="150" as="geometry" />
+          <mxGeometry x="2110" y="1720.03" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-126" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;OpenAI&lt;br&gt;Google&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;Meta&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 16px;&quot;&gt;...&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1060" y="1719" width="80" height="150" as="geometry" />
@@ -962,16 +962,16 @@
         <mxCell id="CBNs1XedIZKuOuS7RUrL-175" value="&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;定位导航&lt;br&gt;路径规划&lt;br&gt;目标检测避障&lt;br&gt;三维模拟器&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1281" y="1350.86" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z2G3SKLADaCC7KztDcQA-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;10 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Z2G3SKLADaCC7KztDcQA-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;lt;10 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="915" y="1450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2G3SKLADaCC7KztDcQA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;10-50 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Z2G3SKLADaCC7KztDcQA-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;10-50 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2G3SKLADaCC7KztDcQA-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;gt;100 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Z2G3SKLADaCC7KztDcQA-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;gt;100 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1301" y="1450" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2G3SKLADaCC7KztDcQA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;50-100 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Z2G3SKLADaCC7KztDcQA-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;50-100 m&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1165" y="1450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
