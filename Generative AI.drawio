@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T02:36:12.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-XTZOsRlTujY22SQ1F45" version="21.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T02:36:18.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hfiqVXp31FI4CmWhKvNQ" version="21.1.6" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1816" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -787,7 +787,7 @@
         <mxCell id="CBNs1XedIZKuOuS7RUrL-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;三维内容重建/生成技术&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1240" y="1640.03" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CBNs1XedIZKuOuS7RUrL-109" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;基础AI模型&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="CBNs1XedIZKuOuS7RUrL-109" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;AI基础模型&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1060" y="1640.03" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CBNs1XedIZKuOuS7RUrL-110" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;语言模型&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
