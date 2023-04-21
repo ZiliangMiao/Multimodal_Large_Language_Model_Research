@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T03:42:02.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="G7X5OixfYN1BasIvDBtR" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T03:42:39.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ALliKhbdy9Sf_d9UqnPE" version="21.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2261" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -980,13 +980,13 @@
         <mxCell id="6My3bh7GGfbhvnuc8hWu-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应用&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1860" y="1640.03" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6My3bh7GGfbhvnuc8hWu-7" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;行业应用&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="6My3bh7GGfbhvnuc8hWu-7" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;土木行业&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2020" y="1680.03" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6My3bh7GGfbhvnuc8hWu-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;机器人/自动驾驶&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0d5e8d;strokeColor=default;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="2100" y="1680.03" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6My3bh7GGfbhvnuc8hWu-9" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;State Grid&lt;br&gt;Hilti&lt;br&gt;建筑施工&lt;br&gt;电力检修&lt;br&gt;林业维护&lt;br&gt;室内设计&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="6My3bh7GGfbhvnuc8hWu-9" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;建筑施工&lt;br&gt;电力检修&lt;br&gt;林业维护&lt;br&gt;室内设计&lt;br&gt;State Grid&lt;br&gt;Hilti...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2020" y="1720.03" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="6My3bh7GGfbhvnuc8hWu-10" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Tesla&lt;br&gt;Li Auto&lt;br&gt;AITO&lt;br&gt;BYD...&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8f8f8f;strokeColor=default;" parent="1" vertex="1">
