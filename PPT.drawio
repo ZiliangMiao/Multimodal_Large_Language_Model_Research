@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T15:52:36.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="HWm2K_ZYhWnvHC6dUPN-" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T15:54:42.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NEkH1_t86cNpr9XGIB_f" version="21.2.2" type="github">
   <diagram name="Page-1" id="5KsR6QROZ4tOL8PqWzx3">
-    <mxGraphModel dx="1619" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1720" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,19 +219,27 @@
         <mxCell id="rgLvbv60kFRGJZh8DLxI-94" value="$$10^{20}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1420" y="530" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="rgLvbv60kFRGJZh8DLxI-100">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1480" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rgLvbv60kFRGJZh8DLxI-100" value="$$10^{26}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1420" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="rgLvbv60kFRGJZh8DLxI-106" target="rgLvbv60kFRGJZh8DLxI-100">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rgLvbv60kFRGJZh8DLxI-106" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2045&lt;/b&gt;: 超过所有人脑算力之和&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1480" y="425" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="rgLvbv60kFRGJZh8DLxI-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rgLvbv60kFRGJZh8DLxI-107" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2023&lt;/b&gt;: 超过人脑算力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1480" y="590" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="rgLvbv60kFRGJZh8DLxI-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="675" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rgLvbv60kFRGJZh8DLxI-109" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2015&lt;/b&gt;: 超过鼠脑算力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1480" y="650" width="70" height="50" as="geometry" />
