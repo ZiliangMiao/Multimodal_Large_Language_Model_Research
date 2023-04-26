@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T15:54:42.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="NEkH1_t86cNpr9XGIB_f" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T16:12:43.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="x4lAqCoRz_0iRLzGl9mt" version="21.2.2" type="github">
   <diagram name="Page-1" id="5KsR6QROZ4tOL8PqWzx3">
-    <mxGraphModel dx="1720" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1966" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,16 +251,16 @@
           <mxGeometry x="546" y="971" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rgLvbv60kFRGJZh8DLxI-113" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0096ff;" vertex="1" parent="1">
-          <mxGeometry x="725" y="901" width="10" height="10" as="geometry" />
+          <mxGeometry x="737" y="901" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-114" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Analytical Engine&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="382" y="957" width="50" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-114" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Analytical Engine&lt;/b&gt;: 为解决计算和逻辑问题设计，但未完全建成&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="924" width="150" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;IBM Tabulator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="930" width="50" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-115" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IBM Tabulator&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="499" y="931" width="104" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Colossus&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="870" width="50" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-116" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Colossus&lt;/b&gt;: 电子计算机 有1500真空电子管 二战中帮助英国破解德国密码&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="861" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rgLvbv60kFRGJZh8DLxI-117" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0096ff;" vertex="1" parent="1">
           <mxGeometry x="968" y="835" width="10" height="10" as="geometry" />
@@ -277,20 +277,20 @@
         <mxCell id="rgLvbv60kFRGJZh8DLxI-129" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0096ff;" vertex="1" parent="1">
           <mxGeometry x="1314" y="655" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-130" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;UNIVAC I&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="763" y="870" width="67" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-130" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;UNIVAC I&lt;/b&gt;: 第一台商用销售的计算机 用于制作美国人口普查表格&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="783" y="931" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-131" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Apple II&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="911" y="795" width="67" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-131" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Apple II&lt;/b&gt;: 最早大规模普及的个人电脑 售价$1,298&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="795" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Power Mac G4&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1145.5" y="768" width="94.5" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-132" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Power Mac G4&lt;/b&gt;: 第一台提供超过1B FLOPS算力的个人电脑&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="768" width="144.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-133" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Mac Pro&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1092.75" y="693.5" width="94.5" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-133" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Mac Pro&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="693.5" width="94.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rgLvbv60kFRGJZh8DLxI-134" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;NVIDIA A100&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1325.5" y="640" width="94.5" height="40" as="geometry" />
+        <mxCell id="rgLvbv60kFRGJZh8DLxI-134" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NVIDIA A100&lt;/b&gt;: 2020年GPU 提供20T FLOPS算力 售价$15,000&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1289.5" y="677.5" width="138.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
