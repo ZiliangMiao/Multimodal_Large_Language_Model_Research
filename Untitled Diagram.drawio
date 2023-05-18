@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T10:04:07.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4O6XL_dWIAe4bECIT4yV" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T10:13:58.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xzASGTHCnsPEkA4YZw9t" version="21.3.2" type="github">
   <diagram name="Page-1" id="68JO6MREXEzeNU68vQrC">
-    <mxGraphModel dx="2537" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1839" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,6 +477,24 @@
         </mxCell>
         <mxCell id="kDWZ8tuxKQJgS3sRpTLx-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;LLM&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="522.5" y="2180" width="90" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Wm7bWVQQxzF7gEb7x0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O2Wm7bWVQQxzF7gEb7x0-3" target="O2Wm7bWVQQxzF7gEb7x0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Wm7bWVQQxzF7gEb7x0-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;感知&lt;/b&gt;&lt;br&gt;识别&amp;nbsp; 定位&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry y="2410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Wm7bWVQQxzF7gEb7x0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O2Wm7bWVQQxzF7gEb7x0-7" target="O2Wm7bWVQQxzF7gEb7x0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Wm7bWVQQxzF7gEb7x0-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;规划&lt;/b&gt;&lt;br&gt;任务 路径&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Wm7bWVQQxzF7gEb7x0-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;控制&lt;/b&gt;&lt;br&gt;移动 执行&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="2410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2Wm7bWVQQxzF7gEb7x0-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PaLM-E&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2530" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
